@@ -6,7 +6,7 @@
 
 
 
- The size of this circle should be set by the diamter of the bolt plus the diameter of the router guide ring
+ The size of this circle should be set by the diameter of the bolt which is 18mm plus the diameter of the router guide ring plus 2mm to make for a lose fit
 
 
 

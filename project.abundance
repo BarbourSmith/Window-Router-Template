@@ -1216,7 +1216,7 @@
       "y": 0.5264623955431754,
       "uniqueID": "4abd1936-0c3b-4fe7-8977-2da0b792a45b",
       "ioValues": [],
-      "readMeText": "The size of this circle should be set by the diamter of the bolt plus the diameter of the router guide ring",
+      "readMeText": "The size of this circle should be set by the diameter of the bolt which is 18mm plus the diameter of the router guide ring plus 2mm to make for a lose fit",
       "global": true
     }
   ],
