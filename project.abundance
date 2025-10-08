@@ -1,0 +1,15 @@
+{
+    "atomType": "Molecule",
+    "name": "Window Router Template",
+    "x": 0,
+    "y": 0,
+    "uniqueID": "9f11c65f-db86-4ef9-9777-6af618f0c2d5",
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [],
+    "allConnectors": [],
+    "unitsKey": "MM",
+    "fileTypeVersion": 1,
+    "compiledBom": {},
+    "filetypeVersion": 1
+}
