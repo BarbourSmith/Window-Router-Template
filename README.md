@@ -6,5 +6,7 @@
 
 
 
- 
+ The size of this circle should be set by the diamter of the bolt plus the diameter of the router guide ring
+
+
 
